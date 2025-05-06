@@ -1,7 +1,15 @@
 <div align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWw5MXl4dzR5ZHE3ZXAxM3h6dDFrcWsxZ2kycGJpaXU1dTg4NmJ0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MnIO9NK5QwKRvVvfE7/giphy.gif" width="100px" height="100px">
-## mixedfeels | felix
+<div align="center">
+  <div style="display: inline-block; padding: 10px;">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWw5MXl4dzR5ZHE3ZXAxM3h6dDFrcWsxZ2kycGJpaXU1dTg4NmJ0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MnIO9NK5QwKRvVvfE7/giphy.gif" width="100px" height="100px">
+  </div>
+  <div style="display: inline-block; padding: 10px;">
+    <h3>mixedfeels | felix</h3>
+  </div>
+</div>
+
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5805fc&center=true&width=435&lines=Full-Stack+Developer;Mobile+App+Enthusiast;Tech+Explorer;Lifelong+Learner" alt="Typing SVG" />
