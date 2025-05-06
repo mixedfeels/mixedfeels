@@ -1,6 +1,6 @@
 <div align="center">
 
-# Felix <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWw5MXl4dzR5ZHE3ZXAxM3h6dDFrcWsxZ2kycGJpaXU1dTg4NmJ0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MnIO9NK5QwKRvVvfE7/giphy.gif" width="100px" height="100px">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWw5MXl4dzR5ZHE3ZXAxM3h6dDFrcWsxZ2kycGJpaXU1dTg4NmJ0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MnIO9NK5QwKRvVvfE7/giphy.gif" width="100px" height="100px">
 
 <div align="center">
   <a href="https://git.io/typing-svg">
