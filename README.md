@@ -30,46 +30,37 @@
 
 <h4 align="center" style="color:#5805fc;">Languages</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,sql" width="50" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,sql" width="100" />
 </p>
 
 <h4 align="center" style="color:#5805fc;">Mobile</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=android" width="50" />
+  <img src="https://skillicons.dev/icons?i=android" width="100" />
 </p>
 
 <h4 align="center" style="color:#5805fc;">Frontend</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css" width="50" />
+  <img src="https://skillicons.dev/icons?i=react,html,css" width="100" />
 </p>
 
 <h4 align="center" style="color:#5805fc;">Backend</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" width="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" width="100" />
 </p>
-
+<div align="center">
+  <div style="display: inline-block; padding: 10px;">
+![socorro](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNxbjl4NTZqdTZuZjZoemV3aG5hM2xpYjN3eXpyajhxeDByb3J0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUVOeIagS1rrqsYQJe/giphy.gif)
+  </div>
+  <div style="display: inline-block; padding: 10px;">
+    <h3>I love coding.</h3>
+  </div>
+</div>
 <h4 align="center" style="color:#5805fc;">Databases</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" width="50" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" width="100" />
 </p>
 
-## Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/felix-dev/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="55" height="55"/>
-  </a>
-  <a href="https://github.com/mixedfeels" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" width="55" height="55"/>
-  </a>
-</p>
-
-
-## Thats probably all you would want to know
-
-![socorro](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNxbjl4NTZqdTZuZjZoemV3aG5hM2xpYjN3eXpyajhxeDByb3J0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUVOeIagS1rrqsYQJe/giphy.gif)
-
----
+## Thats probably all I got to say.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
