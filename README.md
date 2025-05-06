@@ -49,16 +49,15 @@
 </p>
 <div align="center">
   <div style="display: inline-block; padding: 10px;">
-![socorro](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNxbjl4NTZqdTZuZjZoemV3aG5hM2xpYjN3eXpyajhxeDByb3J0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUVOeIagS1rrqsYQJe/giphy.gif)
+  
+<div align="center">
+  <div style="display: inline-block; padding: 10px;">
+    <img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif?cid=ecf05e47sb9q32nx0fuazgi2txsfhvse29cmqvlvbfiair7o&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100px" height="100px" alt="Gif description">
   </div>
   <div style="display: inline-block; padding: 10px;">
     <h3>I love coding.</h3>
   </div>
 </div>
-<h4 align="center" style="color:#5805fc;">Databases</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" width="100" />
-</p>
 
 ## Thats probably all I got to say.
 
