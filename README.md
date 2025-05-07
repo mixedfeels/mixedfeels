@@ -21,27 +21,38 @@
 [![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=mixedfeels&show_icons=true&theme=radical)](https://github.com/mixedfeels)
 [![Felix's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mixedfeels&theme=radical)](https://github.com/mixedfeels)
 
--  **Currently:** Developing Android apps with Java and SQLite, building cloud-based APIs using Node.js (Azure hosted).
+-  **Currently:** Developing WebSites with ReactJS and SQLite, building cloud-based APIs using Node.js (Azure hosted).
 -  **Passionate about:** Software development, particularly with full stack web development, backend systems and mobile app development ( in this order ).
 -  **Learning:** More about cloud-native architectures and AI-assisted planning tools.
 -  **Background:** Full-stack developer in the making, with experience in building many WebSites and actually building apps for day to day productivity.
 
-## Stack:
-
-<h4 align="center" style="color:#5805fc;">Languages</h4>
+## Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python" width="300" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python" />
 </p>
 
-<h4 align="center" style="color:#5805fc;">Frontend</h4>
+##  Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,vite" width="300" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,vite" />
 </p>
 
-<h4 align="center" style="color:#5805fc;">Backend</h4>
+##  Backend & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sqlite" width="200" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sqlite" />
 </p>
+
+## Tools & Dev Environment
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=vscode,intellij,androidstudio,git,github,postman,figma" /> 
+</p>
+
+## Cloud & Hosting
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=firebase,vercel" /> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure"     width="60"/> 
+</p>
+
+
 
 <div align="center">
   <div style="display: inline-block; padding: 10px;">
