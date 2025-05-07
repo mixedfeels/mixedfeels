@@ -30,22 +30,17 @@
 
 <h4 align="center" style="color:#5805fc;">Languages</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,sql" width="150" />
-</p>
-
-<h4 align="center" style="color:#5805fc;">Mobile</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=android" width="150" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,sql,python" width="300" />
 </p>
 
 <h4 align="center" style="color:#5805fc;">Frontend</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css" width="150" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,gsap,vite" width="300" />
 </p>
 
 <h4 align="center" style="color:#5805fc;">Backend</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" width="150" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" width="300" />
 </p>
 
 <div align="center">
