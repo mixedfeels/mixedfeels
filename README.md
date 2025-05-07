@@ -40,7 +40,7 @@
 
 <h4 align="center" style="color:#5805fc;">Backend</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,sql" width="200" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sqlite" width="200" />
 </p>
 
 <div align="center">
