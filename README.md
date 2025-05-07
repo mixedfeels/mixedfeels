@@ -43,34 +43,22 @@
 
 ## Tools & Dev Environment
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=vscode,intellij,androidstudio,git,github,postman,figma" /> 
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,postman,figma" /> 
 </p>
 
 ## Cloud & Hosting
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=firebase,vercel" /> &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure"     width="60"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure"     width="60" align="center"/> 
 </p>
 
 
 
-<div align="center">
-  <div style="display: inline-block; padding: 10px;">
 
-  
-<div align="center">
-  <div style="display: inline-block; padding: 10px;">
-    <img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif?cid=ecf05e47sb9q32nx0fuazgi2txsfhvse29cmqvlvbfiair7o&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100px" height="100px" alt="Gif description">
-  </div>
   <div style="display: inline-block; padding: 10px;">
     <h3>I love coding.</h3>
   </div>
-</div>
 
 ## Thats probably all I got to say.
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
-</div>
 
 </div>
