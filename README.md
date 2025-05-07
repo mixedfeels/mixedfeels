@@ -59,6 +59,5 @@
     <h3>I love coding.</h3>
   </div>
 
-## Thats probably all I got to say.
 
 </div>
