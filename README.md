@@ -33,7 +33,7 @@
 
 ##  Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,vite" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,next" />
 </p>
 
 ##  Backend & Databases
