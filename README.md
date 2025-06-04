@@ -28,7 +28,7 @@
 
 ## Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js" />
+  <img src="https://skillicons.dev/icons?i=java,js,jsx" />
 </p>
 
 ##  Frontend Development
