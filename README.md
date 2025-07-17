@@ -38,7 +38,7 @@
 
 ##  Backend & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sqlite,mongodb" />
 </p>
 
 ## Tools & Dev Environment
